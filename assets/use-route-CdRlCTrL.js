@@ -1,1 +1,0 @@
-import{at as n}from"./index-ZS_1KEiG.js";const s={to:[String,Object],url:String,replace:Boolean};function a({to:t,url:e,replace:o,$router:r}){t&&r?r[o?"replace":"push"](t):e&&(o?location.replace(e):location.href=e)}function i(){const t=n().proxy;return()=>a(t)}export{s as r,i as u};
