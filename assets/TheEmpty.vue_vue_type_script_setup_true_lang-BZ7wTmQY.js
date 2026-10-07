@@ -1,1 +1,0 @@
-import{d as t,n as s,t as n,x as a,y as o,z as c,A as r}from"./index-Co-TCMXb.js";const _={flex:"~ wrap",mt10:"","justify-center":""},i={wfull:"","text-center":"","text-xs":"","leading-4.5":"",class:"text-#A7A7A7"},x=t({__name:"TheEmpty",setup(p){const{t:e}=s();return(l,m)=>(n(),a("div",_,[o("div",i,c(r(e)("isEmpty")),1)]))}});export{x as _};
